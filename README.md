@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SnehilParmar
-- 👀 I’m interested in WEeb Development, Competitive Programming 
+- 👀 I’m interested in Web Development, Competitive Programming 
 - 🌱 I’m currently learning Web Development
 
 <!---
